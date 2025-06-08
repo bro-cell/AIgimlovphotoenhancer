@@ -1,0 +1,15 @@
+{
+  "ads": [
+    {
+      "admob_interstitial_unit_id":"ca-app-pub-3940256099942544/1033173712",
+	"admob_open_unit_id":"ca-app-pub-3940256099942544/9257395921",
+      "number_free_action": 3,
+      "id_iap_1": "100coin",
+      "id_iap_2": "250coin",
+      "id_iap_3": "500coin",
+      "jumlah_coin_1": "10",
+      "jumlah_coin_2": "25",
+      "jumlah_coin_3": "50"
+    }
+  ]
+}
