@@ -1,8 +1,8 @@
 {
   "ads": [
     {
-      "admob_interstitial_unit_id":"ca-app-pub-3940256099942544/1033173712",
-	"admob_open_unit_id":"ca-app-pub-3940256099942544/9257395921",
+      "admob_interstitial_unit_id":"ca-app-pub-8582541165342844/4965552450",
+	"admob_open_unit_id":"ca-app-pub-8582541165342844/4857741244",
       "number_free_action": 3,
       "id_iap_1": "6kcoin",
       "id_iap_2": "13kcoin",
